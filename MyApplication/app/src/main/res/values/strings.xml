@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="open_drawer">Open</string>
+    <string name="closed_drawer">Close</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="homefrag">WELCOME FOSTER PARENT</string>
+    <string name="firstname">First Name</string>
+    <string name="lastname">Last Name</string>
+    <string name="age">Age</string>
+    <string name="address1">Address Line 1</string>
+    <string name="address2">Address Line 2</string>
+    <string name="city">City</string>
+    <string name="state">State</string>
+    <string name="zip">Zip Code</string>
+    <string name="user">User Name</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone</string>
+    <string name="registerid">Registration ID</string>
+    <string name="frag2">Frag2</string>
+    <string name="radio1id">5 Miles</string>
+    <string name="radio2id">10 Miles</string>
+    <string name="registerButton">REGISTER</string>
+    <string name="frag3">Frag3</string>
+</resources>
